@@ -1,4 +1,4 @@
-package abstractFactory;
+package creational.abstractFactory;
 
 class EnginolaToolkit extends AbstractFactory {
     @Override

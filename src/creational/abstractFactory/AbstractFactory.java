@@ -1,4 +1,4 @@
-package abstractFactory;
+package creational.abstractFactory;
 
 abstract class AbstractFactory {
     private static final EmberToolkit EMBER_TOOLKIT = new EmberToolkit();
